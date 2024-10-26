@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # [Project Name] 🎯
-
+thaaliyola(താളിയോല)
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Name] Legion of Geeks
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Adithyan S] - [College of Engineering Perumon]
+- Member 2: [Sreehari R S] - [College of Engineering Perumon]
+- Member 3: [Ayush S] - [College of Engineering Perumon]
 
 ### Project Description
-[2-3 lines about what your project does]
+basically its a fake news generator which is also fake but if you investigate a little more you will find the truthness about the news 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+we show the true colors of people propogating fake news about them . Most of the news available in online are fake what if we provide fake news that will show the truth . thaaliyola is a fake website which is actually useless but it shows what people truly are hence makes it a little bit usefull .
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By showing people what they are truly afraid of 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- Python Json Javascript
+- Flask Generative ai
 - [Libraries used]
-- [Tools used]
+- VS Code
 
 For Hardware:
 - [List main components]
@@ -37,10 +37,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install google-generativeai
 
 # Run
-[commands]
+python app.py
 
 ### Project Documentation
 For Software:
@@ -87,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Adithyan S: Backend
+- Ayush S: Backend
+- Sreehari R S: Frontend
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
