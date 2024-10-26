@@ -1,0 +1,119 @@
+/* Global Styles */
+body {
+    background-image: url("crowd.jpg.jpg");
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  header {
+    background-image: url("fake.jpg");
+    background-color: #003366;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-family: monospace;
+    font-size: 3em;
+    margin: 0;
+  }
+  
+  header .date {
+    font-size: 1.2em;
+    margin-top: 5px;
+    color: #cfcfcf;
+  }
+  
+  /* News Grid Styles */
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .news-item {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .news-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .news-content {
+    padding: 20px;
+  }
+  
+  .news-meta {
+    display: flex;
+    justify-content: space-between;
+    color: #999;
+    font-size: 0.9em;
+  }
+  
+  .news-meta .comments {
+    margin-left: 10px;
+  }
+  
+  .news-item h2 {
+    margin: 15px 0;
+    color: #003366;
+    font-size: 1.5em;
+  }
+  
+  .news-item p {
+    color: #666;
+  }
+  
+  .read-more {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #003366;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .read-more:hover {
+    background-color: #00509e;
+  }
+  .button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.button-link:hover {
+    background-color: #b31313;
+}
+
+  
+  /* Footer Styles */
+  footer {
+    text-align: center;
+    color: white;
+    padding: 15px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
