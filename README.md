@@ -1,10 +1,10 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-thaaliyola(താളിയോല)
+# Thaaliyola(താളിയോല) 🎯
+
 
 ## Basic Details
-### Team Name: [Name] Legion of Geeks
+### Team Name: Legion of Geeks
 
 
 ### Team Members
