@@ -24,9 +24,8 @@ By showing people what they are truly afraid of
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Python Json Javascript
-- Flask Generative ai
-- [Libraries used]
+- Python, Json, Javascript
+- Flask, Generative ai
 - VS Code
 
 For Hardware:
